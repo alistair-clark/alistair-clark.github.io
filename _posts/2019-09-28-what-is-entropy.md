@@ -23,7 +23,7 @@ This is a simple example, but it reveals our intuitive understanding of the rela
 3. **Uncertainty is zero** when the probability of a specific outcome is equal to one. In our example, this was when our friend told us there is a 100% chance that the test covers topic 1.
 
 
-<img src="img/probability_and_uncertainty.png" alt="Probability and Uncertainty" width="800"/>
+<img src="/img/probability_and_uncertainty.png" alt="Probability and Uncertainty" width="800"/>
 
 Got it? Great, because if you understand that, you already understand entropy.
 
