@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What is Entropy?
-
 ---
 
 Imagine you're in school and you have an important test next week. The test could cover five topics, but you only have time to study one. So, which topic should you study?
